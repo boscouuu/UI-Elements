@@ -1,0 +1,48 @@
+
+.tabsV2Container{
+    border: 1px solid #E7EBF0;
+    padding: 1rem;
+    border-radius: 5px;
+}
+.btnContainer{
+    display: flex;
+    color: rgb(44, 44, 44);
+    border-bottom: 1px solid #E7EBF0;
+}
+.tabs{
+    color: rgb(44, 44, 44);
+    background: none;
+    border: none;
+    width: 10rem;
+    height: 3rem;
+    font: inherit;
+    font-weight: 500;
+    cursor: pointer;
+}
+.activeTab{
+    color:  #277fd5;
+    border-bottom: 3px solid #277fd5;
+}
+.tabData{
+    margin-top: 10px;
+    max-width: 30rem;
+    padding-bottom: 10px;
+}
+.tabContent > h5{
+    font-weight: 500;
+    font-size: 0.9rem;
+    color: rgb(44, 44, 44);
+    padding: 8px 10px;
+    margin: 0;
+}
+.tabContent > p{
+    font-size: 0.7rem;
+    color: rgb(125, 124, 124);
+    margin: 0;
+    padding: 2px 10px;
+}
+
+
+
+
+
